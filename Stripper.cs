@@ -15,6 +15,7 @@ namespace FEZStripGen
             RemoveUncommonTypes(module, new[]{
                 "FezGame.Components.MockAchievement",
                 "FezGame.Services.MockUser",
+                "FezGame.Tools.ErrorDialog",
             });
         }
 
